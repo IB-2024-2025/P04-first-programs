@@ -31,14 +31,14 @@ público en GitHub que contendrá, además del enunciado de la práctica que se 
 que pudieran ser necesarios para el trabajo propuesto.
 
 El repositorio correspondiente a esta práctica está accesible a través de
-[este enlace](https://github.com/IB-2023-2024/P04-first-programs)
+[este enlace](https://github.com/IB-2024-2025/P04-first-programs)
 de modo que la primera tarea a desarrollar es clonar (copiar) ese repositorio en un directorio adecuado de su
 máquina virtual de la asignatura.
 La dirección que ha de usar para clonar el directorio la puede hallar en la pestaña *Code* de la página
 anterior, seleccionando la opción *SSH* en el desplegable que se abre en esa opción.
 Así pues, el comando para clonar el repositorio de esta práctica es
 ``` 
-git clone git@github.com:IB-2023-2024/P04-first-programs.git <directorio en mi máquina virtual>
+git clone git@github.com:IB-2024-2025/P04-first-programs.git <directorio en mi máquina virtual>
 ```
 Comience su trabajo en esta práctica clonando el repositorio anterior.
 
@@ -131,7 +131,7 @@ El siguiente es un ejemplo de comentario de bloque que debería incluirse al com
   * Universidad de La Laguna
   * Escuela Superior de Ingeniería y Tecnología
   * Grado en Ingeniería Informática
-  * Informática Básica 2023-2024
+  * Informática Básica 2024-2025
   *
   * @file integer_division_and_reminder.cc
   * @author Albert Einstein aeinstein@ull.edu.es
