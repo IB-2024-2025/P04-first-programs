@@ -203,7 +203,7 @@ Acepte esa invitación y regístrese en el curso *Informática Básica* en la pl
 cuenta de correo electrónico institucional.
 Es importante que se registre en Jutge con esa cuenta y no otra.
 
-[Este documento](https://docs.google.com/presentation/d/1k53XMnI6Z9DTlBHRJ0cBqix0KZyVIFUgD61XAcsgA9Y/edit?usp=sharing)
+[Este documento](https://docs.google.com/presentation/d/1wYGHq7_Uh8cvkOocY5h75F5d4-Zdu7ZysCKANFsQE6M/edit?usp=sharing)
 contiene información algo más detallada sobre el uso de la plataforma Jutge. 
 Estúdielo para preparse a usar Jutge en el futuro.
 
