@@ -222,7 +222,7 @@ $ ./squares < entrada.txt > salida.txt
 El programa `hello_world.cc` que hallará en el subdirectorio `jutge` de la práctica soluciona el problema
 [P68688](https://jutge.org/problems/P68688_en) de Jutge.
 Modifique convenientemente el programa para que escriba la solución que Jutge espera y
-[suba su solución](https://jutge.org/problems/P68688_en/submissions) (deberá estar logueado dentro de la plataforma para poderlo subir)
+[suba su solución](https://jutge.org/problems/P68688_en/submissions) (deberá estar autentificada/o dentro de la plataforma para poderlo subir)
 a la plataforma para su evaluación.
 
 ### Comandos Linux útiles a la hora de procesar ficheros de texto
